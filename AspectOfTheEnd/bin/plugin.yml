@@ -1,0 +1,8 @@
+main: me.Stormm.AspectOfTheEnd.Main
+name: AspectOfTheEnd
+version: 0.0.1
+author: 5tormm
+api-version: 1.13
+commands:
+  AspectOfTheEnd:
+    aliases: aote

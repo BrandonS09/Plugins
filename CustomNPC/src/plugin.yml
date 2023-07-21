@@ -1,0 +1,6 @@
+main: me.Storm.CustomNPC.Main
+name: CustomNpc
+version: 1.0
+author: Storm
+commands:
+  createnpc:

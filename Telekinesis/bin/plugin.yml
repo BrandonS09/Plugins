@@ -1,0 +1,7 @@
+main: me.Storm.Telekinesis.Main
+name: Telekinesis
+author: Stormm
+version: 1.0
+
+commands:
+  Telekinesis:

@@ -1,0 +1,7 @@
+main: me.Stormm.KitPlugin.Main
+name: KitPlugin
+author: 5tormm
+version: 1.0
+api-version: 1.13
+commands:
+  Kit:

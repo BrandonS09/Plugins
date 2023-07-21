@@ -1,0 +1,6 @@
+name: JoinQuitMessage
+version: '${project.version}'
+main: me.storm.joinquitmessage.JoinQuitMessage
+authors: [ 5tormm ]
+description: Display messages for Joining and Quiting
+commands:
